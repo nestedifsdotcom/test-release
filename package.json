@@ -1,6 +1,6 @@
 {
   "name": "yanis-test-release",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nestedifsdotcom/test-release.git"
+    "url": "https://github.com/nestedifsdotcom/test-release.git"
   },
   "author": "",
   "license": "ISC",
